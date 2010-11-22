@@ -1,0 +1,34 @@
+//
+// Prefix header for all source files of the 'InstantTimer' target in the 'InstantTimer' project
+//
+#import <Availability.h>
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+/*
+ * This defines the following macros, which all take a format string and args.
+ * MSDDebugLog: Logs in debug like NSLog, but silent in release
+ * MSDDebugFail: Always raises an exception in debug, logs in release
+ * MSDCheck: In debug, just like an assert. In release, checks the condition and logs if false.
+ * MSDArgNotNil: A convinience macro which checks for a nil arg and asserts in debug while logging in release.
+ *
+ * From http://www.cimgf.com/2010/05/02/my-current-prefix-pch-file/ 
+ */
+
+#ifdef DEBUG
+#define DebugLog(...) NSLog(@"%s %@", __PRETTY_FUNCTION__, [NSString stringWithFormat:__VA_ARGS__])
+#define DebugFail(...) [[NSAssertionHandler currentHandler] handleFailureInFunction:[NSString stringWithCString:__PRETTY_FUNCTION__ encoding:NSUTF8StringEncoding] file:[NSString stringWithCString:__FILE__ encoding:NSUTF8StringEncoding] lineNumber:__LINE__ description:__VA_ARGS__]
+#else
+#define DebugLog(...) do { } while (0)
+#ifndef NS_BLOCK_ASSERTIONS
+#define NS_BLOCK_ASSERTIONS
+#endif
+#define DebugFail(...) NSLog(@"%s %@", __PRETTY_FUNCTION__, [NSString stringWithFormat:__VA_ARGS__])
+#endif
+
+#define Check(condition, ...) do { if (!(condition)) { MSDDebugFail(__VA_ARGS__); }} while(0)
+#define ArgNotNil(arg) do { if(!(arg)) { MSDDebugFail(@"Argument " #arg @" must not be nil"); } } while(0)
+
+#endif

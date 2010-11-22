@@ -1,0 +1,7 @@
+In file included from /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:9:
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.h:14: error: cannot find protocol declaration for 'AVAudioPlayerDelegate'
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m: In function '-[MainViewController viewDidLoad]':
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:39: error: 'AVAudioSession' undeclared (first use in this function)
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:39: error: (Each undeclared identifier is reported only once
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:39: error: for each function it appears in.)
+/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:44: error: 'AVAudioSessionCategoryAmbient' undeclared (first use in this function)

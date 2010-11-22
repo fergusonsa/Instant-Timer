@@ -1,0 +1,341 @@
+TInstantTimer
+v7
+r0
+t307150555.955307
+cCheck dependencies
+cProcessInfoPlistFile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/Info.plist InstantTimer-Info.plist
+cCompileXIB /Users/scottferguson/dev/InstantTimer/FlipsideView.xib
+cCompileXIB /Users/scottferguson/dev/InstantTimer/MainView.xib
+cCompileXIB /Users/scottferguson/dev/InstantTimer/MainWindow.xib
+cDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/main.o /Users/scottferguson/dev/InstantTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimerAppDelegate.o /Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/MainViewController.o /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/FlipsideViewController.o /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.h
+c000000004C9E4DCA0000000000000287
+t1285443018
+s647
+i<UIKit/UIKit.h>
+
+N/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m
+c000000004C9E5A39000000000000069F
+t1285446201
+s1695
+i"FlipsideViewController.h"
+
+N/Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.h
+c000000004C9E367500000000000001F0
+t1285437045
+s496
+i<UIKit/UIKit.h>
+
+N/Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m
+c000000004C9E36750000000000000AB2
+t1285437045
+s2738
+i"InstantTimerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.h
+c000000004C9E4AE600000000000002C8
+t1285442278
+s712
+i"FlipsideViewController.h"
+
+N/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m
+c000000004C9E875800000000000008EA
+t1285457752
+s2282
+i"MainViewController.h"
+
+N/Users/scottferguson/dev/InstantTimer/FlipsideView.xib
+c000000004C9E4D390000000000006526
+t1285442873
+s25894
+
+N/Users/scottferguson/dev/InstantTimer/InstantTimer_Prefix.pch
+c000000004C9E3675000000000000014A
+t1285437045
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/scottferguson/dev/InstantTimer/MainView.xib
+c000000004C9E4B1200000000000081C6
+t1285442322
+s33222
+
+N/Users/scottferguson/dev/InstantTimer/MainWindow.xib
+c000000004C9E367500000000000050AC
+t1285437045
+s20652
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app
+t2
+s0
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app.dSYM
+t2
+s0
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/FlipsideView.nib
+t1285457753
+s3519
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/Info.plist
+t1285457752
+s611
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/InstantTimer
+t2
+s0
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/MainView.nib
+t1285457753
+s5277
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/MainWindow.nib
+t1285457754
+s1714
+
+N/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/PkgInfo
+t1285457752
+s8
+
+N/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/FlipsideViewController.o
+t2
+s0
+
+N/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimer.LinkFileList
+c000000004C9E8758000000000000023F
+t1285457752
+s575
+
+N/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimerAppDelegate.o
+t1285457755
+s48236
+
+N/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/main.o
+t1285457755
+s6300
+
+N/Users/scottferguson/dev/InstantTimer/main.m
+c000000004C9E36750000000000000171
+t1285437045
+s369
+i<UIKit/UIKit.h>
+
+NInstantTimer-Info.plist
+c000000004C9E3675000000000000038D
+t1285437045
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307150552#307150552#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileXIB /Users/scottferguson/dev/InstantTimer/FlipsideView.xib
+s307150552.650324
+e307150553.714977
+r1
+xCompileXIB
+x/Users/scottferguson/dev/InstantTimer/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib307150552#307150553#0(0"0(0#0#54"/Users/scottferguson/dev/InstantTimer/FlipsideView.xib8635369600#638"    cd /Users/scottferguson/dev/InstantTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/FlipsideView.nib /Users/scottferguson/dev/InstantTimer/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/scottferguson/dev/InstantTimer/MainView.xib
+s307150552.651307
+e307150553.769176
+r1
+xCompileXIB
+x/Users/scottferguson/dev/InstantTimer/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib307150552#307150553#0(0"0(0#0#50"/Users/scottferguson/dev/InstantTimer/MainView.xib8634998496#630"    cd /Users/scottferguson/dev/InstantTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/MainView.nib /Users/scottferguson/dev/InstantTimer/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/scottferguson/dev/InstantTimer/MainWindow.xib
+s307150553.715069
+e307150554.100010
+r1
+xCompileXIB
+x/Users/scottferguson/dev/InstantTimer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307150553#307150554#0(0"0(0#0#52"/Users/scottferguson/dev/InstantTimer/MainWindow.xib8633379488#634"    cd /Users/scottferguson/dev/InstantTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/MainWindow.nib /Users/scottferguson/dev/InstantTimer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/FlipsideViewController.o /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307150555.041183
+e307150555.955218
+r0
+xDistributed-CompileC
+xbuild/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+odistcc[10575] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[10575] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+odistcc[10575] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m on scott-fergusons-macbook.local./4,lzo,cpp failed
+odistcc[10575] (dcc_build_somewhere) Warning: remote compilation of '/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m' failed, retrying locally
+odistcc[10575] Warning: failed to distribute /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m to scott-fergusons-macbook.local./4,lzo,cpp, running locally instead
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m: In function '-[FlipsideViewController done:]':
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: error: expected expression before ':' token
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: 'NSUserDefaults' may not respond to '-setDouble:forKey::'
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: (Messages without a matching method signature
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: will be assumed to return 'id' and accept
+o/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: '...' as arguments.)
+o{standard input}:139:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:139:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:127:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"
+o{standard input}:127:symbol: "LC3" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"
+o{standard input}:118:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:101:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:101:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:98:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:91:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:91:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:85:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:85:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:78:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:78:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:75:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:75:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:65:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol LC3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+odistcc[10575] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m on localhost failed
+lSLF07#2@96"Distribute compilation of /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m307150555#307150555#0(5318"distcc[10575] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[10575] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locallydistcc[10575] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m on scott-fergusons-macbook.local./4,lzo,cpp faileddistcc[10575] (dcc_build_somewhere) Warning: remote compilation of '/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m' failed, retrying locallydistcc[10575] Warning: failed to distribute /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m to scott-fergusons-macbook.local./4,lzo,cpp, running locally instead/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m: In function '-[FlipsideViewController done:]':/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: error: expected expression before ':' token/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: 'NSUserDefaults' may not respond to '-setDouble:forKey::'/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: (Messages without a matching method signature/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: will be assumed to return 'id' and accept/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m:36: warning: '...' as arguments.){standard input}:139:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:139:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:133:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:127:non-relocatable subtraction expression, "LC3" minus "L00000000001$pb"{standard input}:127:symbol: "LC3" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "LC2" minus "L00000000001$pb"{standard input}:118:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:101:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:101:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:98:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:91:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:91:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:85:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:85:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:78:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:78:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:75:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:75:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol LC3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5distcc[10575] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m on localhost failed3(4@36"Expected expression before ':' token307150555#819#119#0(6@70"/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m307139001#36#0#36#0#19"expected * before *0(22@57"'NSUserDefaults' may not respond to '-setDouble:forKey::'307150555#938#142#0(6@70"/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m307139001#36#0#36#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)307150555#1080#130#0(6@70"/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m307139001#36#0#36#0#0"0(0#0#70"/Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m8633884288#2242"    cd /Users/scottferguson/dev/InstantTimer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "--randomize scott-fergusons-macbook.local./4,lzo,cpp"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-generated-files.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-own-target-headers.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-all-target-headers.hmap -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-project-headers.hmap -fpch-preprocess -F/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator -I/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/include -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources/i386 -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources -include /Users/scottferguson/dev/InstantTimer/InstantTimer_Prefix.pch -c /Users/scottferguson/dev/InstantTimer/Classes/FlipsideViewController.m -o /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/FlipsideViewController.o1#
+
+CDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimerAppDelegate.o /Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307150554.102409
+e307150555.093314
+r1
+xDistributed-CompileC
+xbuild/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimerAppDelegate.o
+x/Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Distribute compilation of /Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m307150554#307150555#0(0"0(0#0#71"/Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m8619077952#2208"    cd /Users/scottferguson/dev/InstantTimer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-generated-files.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-own-target-headers.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-all-target-headers.hmap -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-project-headers.hmap -fpch-preprocess -F/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator -I/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/include -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources/i386 -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources -include /Users/scottferguson/dev/InstantTimer/InstantTimer_Prefix.pch -c /Users/scottferguson/dev/InstantTimer/Classes/InstantTimerAppDelegate.m -o /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/InstantTimerAppDelegate.o0#
+
+CDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/MainViewController.o /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307150555.035346
+e307150555.952773
+r0
+xDistributed-CompileC
+xbuild/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/MainViewController.o
+x/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+odistcc[10574] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[10574] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+odistcc[10574] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m on scott-fergusons-macbook.local./4,lzo,cpp failed
+odistcc[10574] (dcc_build_somewhere) Warning: remote compilation of '/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m' failed, retrying locally
+odistcc[10574] Warning: failed to distribute /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m to scott-fergusons-macbook.local./4,lzo,cpp, running locally instead
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m: In function '-[MainViewController viewWillAppear:]':
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: 'totalSeconds' undeclared (first use in this function)
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: (Each undeclared identifier is reported only once
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: for each function it appears in.)
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:34: error: 'nt' undeclared (first use in this function)
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:34: error: expected ';' before 'minutes'
+o/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:35: warning: unused variable 'seconds'
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+odistcc[10574] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m on localhost failed
+lSLF07#2@92"Distribute compilation of /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m307150555#307150555#0(2234"distcc[10574] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[10574] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locallydistcc[10574] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m on scott-fergusons-macbook.local./4,lzo,cpp faileddistcc[10574] (dcc_build_somewhere) Warning: remote compilation of '/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m' failed, retrying locallydistcc[10574] Warning: failed to distribute /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m to scott-fergusons-macbook.local./4,lzo,cpp, running locally instead/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m: In function '-[MainViewController viewWillAppear:]':/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: 'totalSeconds' undeclared (first use in this function)/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: (Each undeclared identifier is reported only once/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:33: error: for each function it appears in.)/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:34: error: 'nt' undeclared (first use in this function)/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:34: error: expected ';' before 'minutes'/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m:35: warning: unused variable 'seconds'{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0distcc[10574] ERROR: compile /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m on localhost failed4(4@54"'totalSeconds' undeclared (first use in this function)307150555#809#133#0(6@66"/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m307150552#33#0#33#0#43"'*' undeclared (first use in this function)0(4@44"'nt' undeclared (first use in this function)307150555#1182#123#0(6@66"/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m307150552#34#0#34#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before 'minutes'307150555#1305#108#0(6@66"/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m307150552#34#0#34#0#19"expected * before *0(22@25"Unused variable 'seconds'307150555#1413#106#0(6@66"/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m307150552#35#0#35#0#19"unused variable '*'0(0#0#66"/Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m8634112992#2234"    cd /Users/scottferguson/dev/InstantTimer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "--randomize scott-fergusons-macbook.local./4,lzo,cpp"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-generated-files.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-own-target-headers.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-all-target-headers.hmap -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-project-headers.hmap -fpch-preprocess -F/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator -I/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/include -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources/i386 -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources -include /Users/scottferguson/dev/InstantTimer/InstantTimer_Prefix.pch -c /Users/scottferguson/dev/InstantTimer/Classes/MainViewController.m -o /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/MainViewController.o1#
+
+CDistributed-CompileC build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/main.o /Users/scottferguson/dev/InstantTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s307150554.100228
+e307150555.035238
+r1
+xDistributed-CompileC
+xbuild/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/main.o
+x/Users/scottferguson/dev/InstantTimer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Distribute compilation of /Users/scottferguson/dev/InstantTimer/main.m307150554#307150555#0(0"0(0#0#44"/Users/scottferguson/dev/InstantTimer/main.m8634552512#2162"    cd /Users/scottferguson/dev/InstantTimer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-generated-files.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-own-target-headers.hmap -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-all-target-headers.hmap -iquote /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/InstantTimer-project-headers.hmap -fpch-preprocess -F/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator -I/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/include -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources/i386 -I/Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/DerivedSources -include /Users/scottferguson/dev/InstantTimer/InstantTimer_Prefix.pch -c /Users/scottferguson/dev/InstantTimer/main.m -o /Users/scottferguson/dev/InstantTimer/build/InstantTimer.build/Debug-iphonesimulator/InstantTimer.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app.dSYM /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/InstantTimer
+r0
+
+CLd /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/InstantTimer normal i386
+r0
+
+CProcessInfoPlistFile /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/Info.plist InstantTimer-Info.plist
+s307150552.563971
+e307150552.650231
+r1
+xProcessInfoPlistFile
+x/Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/Info.plist
+xInstantTimer-Info.plist
+lSLF07#2@31"Process InstantTimer-Info.plist307150552#307150552#0(0"0(0#0#61"/Users/scottferguson/dev/InstantTimer/InstantTimer-Info.plist30962724186357872#553"    cd /Users/scottferguson/dev/InstantTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility InstantTimer-Info.plist -genpkginfo /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app/Info.plist0#
+
+CTouch /Users/scottferguson/dev/InstantTimer/build/Debug-iphonesimulator/InstantTimer.app
+r0
+
